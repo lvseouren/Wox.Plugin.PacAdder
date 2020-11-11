@@ -1,0 +1,12 @@
+﻿{
+  "ID": "6B2A0C9423CD11EB8AED4B2FFC2CA371",
+  "ActionKeyword": "pac",
+  "Name": "PacAdder",
+  "Description": "Add Pac Address",
+  "Author": "Lin Ge",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://lingemoxiaoying.cn",
+  "IcoPath": "Images\\pac.png",
+  "ExecuteFileName": "Wox.Plugin.PacAdder.dll"
+}
